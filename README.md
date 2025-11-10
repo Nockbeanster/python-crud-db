@@ -1,9 +1,11 @@
+DEMO: https://youtu.be/9nCvY5F30Gs?si=AoOsp-LsRjBSQtmw
+
 This project implements a PostgreSQL database and uses python to perform specific CRUD (Create, Read, Update, Delete) operations.
 
 Requirements: 
-    - Python 3.11.9
-    - PostgreSQL installed and running
-    - Student Table created and INSERTED DATA
+ * Python 3.11.9
+ * PostgreSQL installed and running
+ * Student Table created and INSERTED DATA
 
 PostgreSQL Commands:
 
@@ -24,10 +26,10 @@ PostgreSQL Commands:
     SELECT * FROM students;
 
 Setup:
-    1. Clone from Repo
-    2. Initalize DB with commands above
-    3. When DB is running
-    4. Install requirements.txt via
-        pip install -r requirements.txt
-        (While being in the same directory)
-    4. Run the dbms_app.ipynb
+ * Clone from Repo
+ * Initalize DB with commands above
+ * When DB is running
+ * Install requirements.txt via
+	pip install -r requirements.txt
+	(While being in the same directory)
+ * Run the dbms_app.ipynb
